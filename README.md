@@ -1,8 +1,6 @@
 ### Phantom for Jekyll
 
-A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
-
-See in in action on my own [portfolio site](http://jamigibbs.com).
+A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap. See it in action on my own [portfolio site](http://jamigibbs.com).
 
 ### Fancy using it for your own site?
 
@@ -25,13 +23,11 @@ Here are some steps to get you started:
 
 ### Launching with Github Pages :rocket:
 
-1. Update the `CNAME` file with your own domain
-
-2. [Configure your domain with your DNS provider](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/). Alternately, you can use the default Github url (ie. http://username.github.io/repository) and not bother messing around with a custom domain
+Jekyll + Github pages is a marriage made in heaven. You can [use your own custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) or use the default Github url (ie. http://username.github.io/repository) and not bother messing around with DNS settings.
 
 ### Theme Features
 
-*Navigation*
+**Navigation**
 
 To activate a navigation bar in the header, set the global `nav` variable to true:
 
@@ -45,7 +41,7 @@ main:
     - { url: '/about', text: 'About' }
 ```
 
-*Contact Form*
+**Contact Form**
 
 You can display a contact form within the modal window template. This template is already setup to use the [Formspress](http://formspree.com) email system. You'll just want to add your email address to the form in `/_includes/contact-modal.html`.
 
@@ -57,7 +53,7 @@ The template will display a link to click for the contact form modal window:
 {% include contact-modal.html %}
 ```
 
-*Animation Effects*
+**Animation Effects**
 
 Animations with CSS classes are baked into the theme. To animate a section or element, simply add the animation classes:
 
@@ -69,7 +65,7 @@ Animations with CSS classes are baked into the theme. To animate a section or el
 
 For a complete list of animations, see the [animation list](http://daneden.github.io/animate.css/).
 
-*Pagination*
+**Pagination**
 
 By default, pagination on the home page will activate after 10 posts. You can change this within `_config.yml`. You can add the pagination to other layouts with:
 
