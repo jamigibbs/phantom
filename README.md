@@ -12,7 +12,7 @@ Here are some steps to get you started:
 
 1. Clone this repo and cd into the directory:
 
-  `git clone https://github.com/jamigibbs/portfolio.git your-dir-name`
+  `git clone https://github.com/jamigibbs/phantom.git your-dir-name`
   `cd your-dir-name`
 
 2. Run Jekyll:
