@@ -43,7 +43,7 @@ main:
 
 **Contact Form**
 
-You can display a contact form within the modal window template. This template is already setup to use the [Formspress](http://formspree.com) email system. You'll just want to add your email address to the form in `/_includes/contact-modal.html`.
+You can display a contact form within the modal window template. This template is already setup to use the [Formspree](http://formspree.com) email system. You'll just want to add your email address to the form in `/_includes/contact-modal.html`.
 
 Place the modal window template in any place you'd like the user to click for the contact form.
 The template will display a link to click for the contact form modal window:
