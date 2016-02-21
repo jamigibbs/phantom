@@ -1,6 +1,10 @@
 ### Phantom for Jekyll
 
-A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap. See it in action on my own [portfolio site](http://jamigibbs.com).
+A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
+
+![preview](preview.jpg)
+
+See it in action on my own [portfolio site](http://jamigibbs.com).
 
 ### Fancy using it for your own site?
 
