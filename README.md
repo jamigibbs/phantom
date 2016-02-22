@@ -33,11 +33,11 @@ Jekyll + Github pages is a marriage made in heaven. You can [use your own custom
 
 **Navigation**
 
-To activate a navigation bar in the header, set the global `nav` variable to true:
+To activate a navigation bar in the header, set the global `nav` variable to true in:
 
-`/_data/nav.yml`
+`/_data/global.yml`
 
-Then add your navigation items in the `/_data/nav.yml` file:
+Then add your navigation items in the `/_data/nav.yml` file. For example:
 
 ```
 main:
