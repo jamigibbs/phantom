@@ -4,7 +4,7 @@ A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with
 
 ![preview](preview.jpg)
 
-See it in action on my own [portfolio site](http://jamigibbs.com).
+[See it in action](http://jamigibbs.github.io/phantom/).
 
 ### Fancy using it for your own site?
 
