@@ -5,7 +5,7 @@
 
   <a href="{{ post.project_link }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.button_icon}} fa-lg"></i>{{post.button_text}}</button></a>
 
-  {% if post.categories != empty %}
+  {% if post.tags != empty %}
   <div class="tags">
     {% for tag in post.tags %}
     <span>{{ tag }}</span>
