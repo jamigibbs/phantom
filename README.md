@@ -1,4 +1,4 @@
-### Phantom for Jekyll
+## Phantom for Jekyll
 
 A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
 
@@ -6,7 +6,7 @@ A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with
 
 [See it in action](http://jamigibbs.github.io/phantom/).
 
-### Fancy using it for your own site?
+## Fancy using it for your own site?
 
 Here are some steps to get you started:
 
@@ -28,13 +28,13 @@ Here are some steps to get you started:
 
   `http://127.0.0.1:4000`
 
-### Launching with Github Pages :rocket:
+## Launching with Github Pages :rocket:
 
 Jekyll + Github pages is a marriage made in heaven. You can [use your own custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) or use the default Github url (ie. http://username.github.io/repository) and not bother messing around with DNS settings.
 
-### Theme Features
+## Theme Features
 
-**Navigation**
+#### Navigation
 
 Navigation can be customized in `_config.yml` under the `nav_item` key. Default settings:
 
@@ -46,7 +46,7 @@ nav_item:
 
 Set the `nav_enable` variable to false in `_config.yml` to disable navigation.
 
-**Contact Form**
+#### Contact Form
 
 You can display a contact form within the modal window template. This template is already setup to use the [Formspree](https://formspree.io) email system. You'll just want to add your email address to the form in `/_includes/contact-modal.html`.
 
@@ -58,7 +58,7 @@ The template will display a link to click for the contact form modal window:
 {% include contact-modal.html %}
 ```
 
-**Animation Effects**
+#### Animation Effects
 
 Animations with CSS classes are baked into the theme. To animate a section or element, simply add the animation classes:
 
@@ -70,7 +70,7 @@ Animations with CSS classes are baked into the theme. To animate a section or el
 
 For a complete list of animations, see the [animation list](http://daneden.github.io/animate.css/).
 
-**Pagination**
+#### Pagination
 
 By default, pagination on the home page will activate after 10 posts. You can change this within `_config.yml`. You can add the pagination to other layouts with:
 
@@ -84,7 +84,7 @@ By default, pagination on the home page will activate after 10 posts. You can ch
 
 Read more about the [pagination plugin](http://jekyllrb.com/docs/pagination/).
 
-### Credit
+## Credit
 
 * Bootstrap, http://getbootstrap.com/, (C) 2011 - 2016 Twitter, Inc., [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
 
