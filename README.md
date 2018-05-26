@@ -34,7 +34,7 @@ Jekyll + Github pages is a marriage made in heaven. You can [use your own custom
 
 ## Theme Features
 
-#### Navigation
+### Navigation
 
 Navigation can be customized in `_config.yml` under the `nav_item` key. Default settings:
 
@@ -46,7 +46,7 @@ nav_item:
 
 Set the `nav_enable` variable to false in `_config.yml` to disable navigation.
 
-#### Contact Form
+### Contact Form
 
 You can display a contact form within the modal window template. This template is already setup to use the [Formspree](https://formspree.io) email system. You'll just want to add your email address to the form in `/_includes/contact-modal.html`.
 
@@ -58,7 +58,7 @@ The template will display a link to click for the contact form modal window:
 {% include contact-modal.html %}
 ```
 
-#### Animation Effects
+### Animation Effects
 
 Animations with CSS classes are baked into the theme. To animate a section or element, simply add the animation classes:
 
@@ -70,7 +70,7 @@ Animations with CSS classes are baked into the theme. To animate a section or el
 
 For a complete list of animations, see the [animation list](http://daneden.github.io/animate.css/).
 
-#### Pagination
+### Pagination
 
 By default, pagination on the home page will activate after 10 posts. You can change this within `_config.yml`. You can add the pagination to other layouts with:
 
