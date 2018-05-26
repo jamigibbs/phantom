@@ -3,8 +3,8 @@
 All notable changes to this project will be documented in this file.
 
 # 1.1.0 - May, XX 2018
-- Conversion to Gem-based theme (#6 & #8)
-- Fix #7 to enable pagination
+- Fix [#6](https://github.com/jamigibbs/phantom/issues/6) & [#7](https://github.com/jamigibbs/phantom/issues/6) to enable pagination
+- Conversion to Gem-based theme to fix [#8](https://github.com/jamigibbs/phantom/issues/8)
 - Add code formatting and syntax highlighting
 - Consolidate configuration to `_config.yml`
 - Standardize a few variable names for clarity
