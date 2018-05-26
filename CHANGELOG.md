@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-# 1.1.0 - May, XX 2018
+# 1.1.0 - May, 26 2018
 - Fix [#6](https://github.com/jamigibbs/phantom/issues/6) & [#7](https://github.com/jamigibbs/phantom/issues/6) to enable pagination
 - Conversion to Gem-based theme to fix [#8](https://github.com/jamigibbs/phantom/issues/8)
 - Add code formatting and syntax highlighting
@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file.
 - Fix image reference in posts
 - Move `about.md`
 - Rename _**this**_ file
+- Update README as needed
 
 # 1.0.2 - Apr 13, 2016
 - Fomspree has been changed to secure connection (https)
