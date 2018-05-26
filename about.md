@@ -14,15 +14,39 @@ Nibh quia necessitatibus omnis! Nemo nascetur penatibus iste morbi. Nisi, conseq
 
 Voluptatem sint. Sapiente porttitor vivamus sequi occaecat litora? Conubia molestias nostrud dicta quisque penatibus minim imperdiet? Aspernatur nostra doloribus nibh curae ac? Nobis quas? Sollicitudin.
 
-### code test
+## Syntax highlighting
 
-bash
+Jekyll has [built in support](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) for syntax highlighting of over 60 languages thanks to [Rouge](http://rouge.jneen.net/).
 
-{% highlight bash %}
-$ sudo apt upgrade -y
+To render a code block with syntax highlighting, surround your code as follows:
+
+{% highlight markdown %}
+{% raw %}
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+{% endraw %}
 {% endhighlight %}
 
-html
+[Pygments](http://pygments.org/) styles are present under section 6.0 of `css/style.scss` for customization.
+
+### Examples
+
+---
+
+#### bash
+
+{% highlight bash %}
+$ ssh -i ~/.ssh/id_rsa account@host.com
+$ var="my-value"
+$ echo $var
+my-value
+$ logout
+{% endhighlight %}
+
+#### html
 
 {% highlight html %}
 <!DOCTYPE html>
@@ -37,7 +61,7 @@ html
 </html>
 {% endhighlight %}
 
-yaml
+#### yaml
 
 {% highlight yaml %}
 # Site settings
