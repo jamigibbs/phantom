@@ -24,9 +24,8 @@ medium_username: 'blog.jamigibbs.com'
 
 # Build settings
 markdown: kramdown
-# theme: minima
+# theme: phantom # Uncomment once published to RubyGems
 plugins:
-  - jekyll-feed
   - jekyll-paginate
 
 ### Phantom settings
