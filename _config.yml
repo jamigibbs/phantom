@@ -23,7 +23,7 @@ unpublished: false
 
 # Plugins
 whitelist: []
-gems:      [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 # Conversion
 markdown:    kramdown
@@ -36,7 +36,8 @@ excerpt_separator: "\n\n"
 detach:  false
 port:    4000
 host:    127.0.0.1
-baseurl: "http://jamigibbs.github.io/phantom/" # does not include hostname
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Outputting
 permalink:     date
@@ -61,14 +62,5 @@ kramdown:
   toc_levels:     1..6
   smart_quotes:   lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-  coderay:
-    coderay_wrap:              div
-    coderay_line_numbers:      inline
-    coderay_line_number_start: 1
-    coderay_tab_width:         4
-    coderay_bold_every:        10
-    coderay_css:               style
-
 
 include: ['_pages']
