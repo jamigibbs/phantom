@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Andy Wimmer"]
   spec.email         = ["andy.wimmer@gmail.com"]
 
-  spec.summary       = "Phantom Theme"
-  spec.homepage      = "https://github.com/andywimmer/"
+  spec.summary       = "Phantom Jekyll Theme"
+  spec.homepage      = "https://github.com/andywimmer/phantom"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
