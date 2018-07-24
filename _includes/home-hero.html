@@ -8,26 +8,33 @@
 
         <div class="hero-content">
 
-          {% if site.data.global.title != '' %}
-          <h1 class="text-center">{{site.data.global.title}}</h1>
+          {% if site.title != '' %}
+          <h1 class="text-center">{{site.title}}</h1>
           {% endif %}
 
-          {% if site.data.global.description != '' %}
-          <p class="text-center">{{site.data.global.description}} {% include contact.html %}</p>
-          {% endif %}
+          {% if site.description != '' or site.enable_contact == true %}
+          <p class="text-center">
+            {% if site.description != '' %}
+            {{site.description}}
+            {% endif %}
 
-          {% include contact-modal.html %}
+            {% if site.enable_contact == true %}
+            {% include contact.html %}
+            {% include contact-modal.html %}
+            {% endif %}
+          </p>
+          {% endif %}
 
           <div class="hero-buttons">
 
-            {% if site.data.global.twitter != '' %}
-              <a href="https://twitter.com/{{ site.data.global.twitter }}"><button class="btn btn-default btn-lg"><i class="fa fa-twitter fa-lg"></i>Twitter</button></a>
+            {% if site.twitter_username != '' %}
+              <a href="https://twitter.com/{{ site.twitter_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-twitter fa-lg"></i>Twitter</button></a>
             {% endif %}
-            {% if site.data.global.github != '' %}
-              <a href="https://github.com/{{ site.data.global.github }}"><button class="btn btn-default btn-lg"><i class="fa fa-github fa-lg"></i>Github</button></a>
+            {% if site.github_username != '' %}
+              <a href="https://github.com/{{ site.github_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-github fa-lg"></i>Github</button></a>
             {% endif %}
-            {% if site.data.global.medium != '' %}
-              <a href="https://{{ site.data.global.medium }}"><button class="btn btn-default btn-lg"><i class="fa fa-medium fa-lg"></i>Medium</button></a>
+            {% if site.medium_username != '' %}
+              <a href="https://{{ site.medium_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-medium fa-lg"></i>Medium</button></a>
             {% endif %}
 
           </div>

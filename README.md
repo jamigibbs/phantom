@@ -1,4 +1,4 @@
-### Phantom for Jekyll
+## Phantom for Jekyll
 
 A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
 
@@ -6,18 +6,21 @@ A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with
 
 [See it in action](http://jamigibbs.github.io/phantom/).
 
-### Fancy using it for your own site?
+## Fancy using it for your own site?
 
 Here are some steps to get you started:
 
 1. Clone this repo and cd into the directory:
 
-  `git clone https://github.com/jamigibbs/phantom.git your-dir-name`
-  `cd your-dir-name`
+  ```bash
+  git clone https://github.com/jamigibbs/phantom.git your-dir-name && cd your-dir-name
+  ```
 
 2. Run Jekyll:
 
-  `jekyll serve --watch`
+  ```bash
+  bundle exec jekyll serve
+  ```
 
   _Don't have Jekyll yet? [Get `er installed then!](http://jekyllrb.com/docs/installation/)_
 
@@ -25,43 +28,41 @@ Here are some steps to get you started:
 
   `http://127.0.0.1:4000`
 
-### Launching with Github Pages :rocket:
+## Launching with Github Pages :rocket:
 
 Jekyll + Github pages is a marriage made in heaven. You can [use your own custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) or use the default Github url (ie. http://username.github.io/repository) and not bother messing around with DNS settings.
 
-### Theme Features
+## Theme Features
 
-**Navigation**
+### Navigation
 
-To activate a navigation bar in the header, set the global `nav` variable to true in:
+Navigation can be customized in `_config.yml` under the `nav_item` key. Default settings:
 
-`/_data/global.yml`
-
-Then add your navigation items in the `/_data/nav.yml` file. For example:
-
-```
-main:
+```yaml
+nav_item:
     - { url: '/', text: 'Home' }
     - { url: '/about', text: 'About' }
 ```
 
-**Contact Form**
+Set the `nav_enable` variable to false in `_config.yml` to disable navigation.
+
+### Contact Form
 
 You can display a contact form within the modal window template. This template is already setup to use the [Formspree](https://formspree.io) email system. You'll just want to add your email address to the form in `/_includes/contact-modal.html`.
 
 Place the modal window template in any place you'd like the user to click for the contact form.
 The template will display a link to click for the contact form modal window:
 
-```
+```liquid
 {% include contact.html %}
 {% include contact-modal.html %}
 ```
 
-**Animation Effects**
+### Animation Effects
 
 Animations with CSS classes are baked into the theme. To animate a section or element, simply add the animation classes:
 
-```
+```html
 <div id="about-me" class="wow fadeIn">
   I'm the coolest!
 </div>
@@ -69,11 +70,11 @@ Animations with CSS classes are baked into the theme. To animate a section or el
 
 For a complete list of animations, see the [animation list](http://daneden.github.io/animate.css/).
 
-**Pagination**
+### Pagination
 
 By default, pagination on the home page will activate after 10 posts. You can change this within `_config.yml`. You can add the pagination to other layouts with:
 
-```
+```liquid
   {% for post in paginator.posts %}
     {% include post-content.html %}
   {% endfor %}
@@ -83,7 +84,7 @@ By default, pagination on the home page will activate after 10 posts. You can ch
 
 Read more about the [pagination plugin](http://jekyllrb.com/docs/pagination/).
 
-### Credit
+## Credit
 
 * Bootstrap, http://getbootstrap.com/, (C) 2011 - 2016 Twitter, Inc., [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
 
