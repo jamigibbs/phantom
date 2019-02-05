@@ -72,3 +72,5 @@ kramdown:
 
 
 include: ['_pages']
+
+theme: jekyll-theme-minimal
