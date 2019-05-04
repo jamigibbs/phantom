@@ -1,74 +1,42 @@
-# Where things are
-source:      .
-destination: ./_site
-plugins_dir:     ./_plugins
-layouts_dir:     ./_layouts
-data_dir: ./_data
-includes_dir: ./_includes
-# collections: null
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Handling Reading
-safe:         false
-include:      [".htaccess"]
-exclude:      []
-keep_files:   [".git", ".svn"]
-encoding:     "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: "Hello. I'm Jami Gibbs."
+email: 'jami0821@gmail.com'
+description: "I'm a software developer and designer from Chicago creating useful things for the web."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 'jamigibbs'
+github_username: 'jamigibbs'
+medium_username: 'blog.jamigibbs.com'
 
-# Filtering Content
-show_drafts: null
-limit_posts: 0
-future:      true
-unpublished: false
+# Build settings
+markdown: kramdown
+# theme: phantom # Uncomment once published to RubyGems
+plugins:
+  - jekyll-paginate
 
-# Plugins
-whitelist: []
-gems:      [jekyll-paginate]
+### Phantom settings
+paginate: 10
+footer_text: '© 2018 Jami Gibbs'
+admin_name: 'Jami Gibbs'
+google_analytics: "UA-9999999-99" # Update with your own tracking ID
+enable_contact: false
 
-# Conversion
-markdown:    kramdown
-highlighter: rouge
-lsi:         false
-excerpt_separator: "\n\n"
-# incremental: false
-
-# Serving
-detach:  false
-port:    4000
-host:    127.0.0.1
-baseurl: "http://jamigibbs.github.io/phantom/" # does not include hostname
-
-# Outputting
-permalink:     date
-paginate:       10
-paginate_path: /page:num
-timezone:      null
-
-quiet:    false
-defaults: []
-
-# Markdown Processors
-rdiscount:
-  extensions: []
-
-redcarpet:
-  extensions: []
-
-kramdown:
-  auto_ids:       true
-  footnote_nr:    1
-  entity_output:  as_char
-  toc_levels:     1..6
-  smart_quotes:   lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-  coderay:
-    coderay_wrap:              div
-    coderay_line_numbers:      inline
-    coderay_line_number_start: 1
-    coderay_tab_width:         4
-    coderay_bold_every:        10
-    coderay_css:               style
-
-
-include: ['_pages']
+#### Phantom Navigation menu
+enable_nav: true
+nav_item:
+  - { url: '/', text: 'Home' }
+  - { url: '/about', text: 'About' }

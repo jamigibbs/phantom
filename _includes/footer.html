@@ -4,7 +4,7 @@
         <div class="row">
 
           <div class="col-xs-12 col-md-2 col-md-offset-1">
-            <p class="text-muted text-left "><a href="{{ site.data.global.url }}">{{ site.data.global.footer_text }}</a></p>
+            <p class="text-muted text-left "><a href="{{ site.url }}">{{ site.footer_text }}</a></p>
           </div>
 
           <div class="col-xs-12 col-md-6 col-md-offset-2">
@@ -21,8 +21,8 @@
     <!-- JavaScript -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    <script src="{{ site.data.global.url }}/js/wow.min.js"></script>
-    <script src="{{ site.data.global.url }}/js/app.js"></script>
+    <script src="{{ site.url }}/js/wow.min.js"></script>
+    <script src="{{ site.url }}/js/app.js"></script>
 
 
     <script>
@@ -31,10 +31,10 @@
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', ' {{ site.data.global.google_analytics }}', 'auto');
+      ga('create', ' {{ site.google_analytics }}', 'auto');
       ga('send', 'pageview');
 
     </script>
-    
+
     </body>
 </html>
