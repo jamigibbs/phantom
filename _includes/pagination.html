@@ -9,21 +9,13 @@
         </li>
         {% endif %}
 
-        {% for page in (1..paginator.total_pages) %}
-            {% if page == paginator.page %}
-            <li class="active">
-                <a href="#">{{ page }}</a>
+        {% if paginator.page_trail %}
+        {% for trail in paginator.page_trail %}
+            <li {% if page.url == trail.path %}class="active"{% endif %}>
+                <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
             </li>
-            {% elsif page == 1 %}
-            <li>
-                <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-            </li>
-            {% else %}
-            <li>
-                <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-            </li>
-            {% endif %}
         {% endfor %}
+        {% endif %}
 
         {% if paginator.next_page %}
         <li>
