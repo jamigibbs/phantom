@@ -2,10 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
-# 1.1.1 - May, 04 2019
+# 1.1.2 - Jan 4, 2020
+- Fixing symlink error in default layout.
+- Update readme install steps.
+
+# 1.1.1 - May 04, 2019
 - Update pagination to fix [#14](https://github.com/jamigibbs/phantom/issues/14)
 
-# 1.1.0 - May, 26 2018
+# 1.1.0 - May 26, 2018
 - Fix [#6](https://github.com/jamigibbs/phantom/issues/6) & [#7](https://github.com/jamigibbs/phantom/issues/6) to enable pagination
 - Conversion to Gem-based theme to fix [#8](https://github.com/jamigibbs/phantom/issues/8)
 - Add code formatting and syntax highlighting
