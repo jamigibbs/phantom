@@ -1,5 +1,25 @@
 *.gem
 .bundle
-.sass-cache
-_site
 Gemfile.lock
+
+# Created by https://www.gitignore.io/api/jekyll,visualstudiocode
+# Edit at https://www.gitignore.io/?templates=jekyll,visualstudiocode
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
+# End of https://www.gitignore.io/api/jekyll,visualstudiocode
