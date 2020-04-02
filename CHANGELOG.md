@@ -29,3 +29,6 @@ All notable changes to this project will be documented in this file.
 
 # 1.0.0 - Feb 21, 2016
 - Initial release
+
+# My customizations
+- Remove JS
