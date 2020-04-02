@@ -1,13 +1,14 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
-date: 2016-02-20 15:56:00
+title: 'Bundeswettbewerbe Informatik'
+date: 2016-01-01 16:00:00
 categories: development
-tags: JavaScript AngularJS API Sass
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
-project_link: 'http://github.com/jamigibbs/weathercast'
+tags: LaTeX Java
+featured_image: '/img/posts/bwinf.jpg'
+project_link: 'https://github.com/laurenzfg/bwinf35-kreiscode'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+lead_text: 'Took part at BwInf, a German programming competition aimed at 
+high school students several times. Take a look at my submissions!'
 ---
