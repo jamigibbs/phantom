@@ -8,13 +8,13 @@
 
         <div class="hero-content">
 
-          {% if site.title != '' %}
+          {% if site.title != empty and site.title != nil %}
           <h1 class="text-center">{{site.title}}</h1>
           {% endif %}
 
-          {% if site.description != '' or site.enable_contact == true %}
+          {% if site.description != empty and site.description != nil or site.enable_contact == true %}
           <p class="text-center">
-            {% if site.description != '' %}
+            {% if site.description != empty and site.description != nil  %}
             {{site.description}}
             {% endif %}
 
@@ -27,13 +27,13 @@
 
           <div class="hero-buttons">
 
-            {% if site.twitter_username != '' %}
+            {% if site.twitter_username != empty and site.twitter_username != nil %}
               <a href="https://twitter.com/{{ site.twitter_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-twitter fa-lg"></i>Twitter</button></a>
             {% endif %}
-            {% if site.github_username != '' %}
+            {% if site.github_username != empty and site.github_username != nil %}
               <a href="https://github.com/{{ site.github_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-github fa-lg"></i>Github</button></a>
             {% endif %}
-            {% if site.medium_username != '' %}
+            {% if site.medium_username != empty and site.medium_username != nil %}
               <a href="https://{{ site.medium_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-medium fa-lg"></i>Medium</button></a>
             {% endif %}
 
