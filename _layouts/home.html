@@ -7,10 +7,10 @@
         <div class="row">
           <div class="col-md-12">
 
-            {% if site.section_title != '' %}
+            {% if site.section_title != empty and site.section_title != nil %}
             <h2 class="section-title text-center">{{ site.section_title }}</h2>
             {% endif %}
-            {% if site.section_subtitle != '' %}
+            {% if site.section_subtitle != empty and site.section_subtitle != nil %}
             <p class="section-subtitle text-center">{{ site.section_subtitle }}</p>
             {% endif %}
 
