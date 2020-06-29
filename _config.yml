@@ -20,7 +20,7 @@ baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://aberba.github.io/portfolio" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'aberbamx'
 github_username: 'aberba'
-# medium_username: 'blog.aberba.com'
+medium_username: ''
 
 # Build settings
 markdown: kramdown
