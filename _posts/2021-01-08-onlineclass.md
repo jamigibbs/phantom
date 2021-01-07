@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Online Class Linker'
-date: 2021-01-06 00:00:00
+date: 2021-01-08 00:00:00
 categories: development html web
 tags: JavaScript Html CSS Covid19
 featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
