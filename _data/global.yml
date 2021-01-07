@@ -1,7 +1,7 @@
 # Site Settings
 title: "Jaehyun Kang"
 description: "Sudent developer in Seoul"
-url: 'https://withkang.org' # the base hostname & protocol for your site
+url: 'https://www.withkang.org' # the base hostname & protocol for your site
 nav: "true"
 footer_text: '© 2021 Jaehyun Kang'
 twitter: ''
@@ -10,6 +10,6 @@ medium: ''
 
 # Admin Settings
 admin_name: 'Jaehyun Kang'
-admin_email: 'admin@withkang.org'
+admin_email: 'admin@www.withkang.org'
 google_analytics: "UA-WYGMGBNEGG" # Update with your own tracking ID
 
