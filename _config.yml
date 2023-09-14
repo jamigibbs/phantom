@@ -18,9 +18,9 @@ email: 'ryan@ryanjenks.soccer'
 description: "I'm a soccer player."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ryanjenks.soccer" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'ryanjenks.soccer'
-github_username: 'ryanjenks.soccer'
-medium_username: 'ryanjenks.soccer'
+#twitter_username: 'ryanjenks.soccer'
+#github_username: 'ryanjenks.soccer'
+#medium_username: 'ryanjenks.soccer'
 
 # Build settings
 markdown: kramdown
