@@ -9,19 +9,20 @@
 
       <div class="modal-body">
 
-        <form class="form-horizontal form-contact clearfix" action="https://formspree.io/f/xzbljvdn" method="POST">
-
+        <form class="form-horizontal form-contact clearfix" id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xzbljvdn" method="post">
+          <fieldset id="fs-frm-inputs">
           <div class="form-group">
-            <label class="message-label">Dear Ryan,</label>
-            <textarea class="message form-control" rows="8" name="message" placeholder="Type your message..."></textarea>
+            <label class="message-label" for="message">Dear Ryan,</label>
+            <textarea class="message form-control" rows="8" name="message" id="message" placeholder="Type your message..." required=""></textarea>
           </div>
 
           <div class="form-group">
-            <label for="name">Sincerely,</label>
-            <input type="name" class="name form-control" name="name" placeholder="Your Name">
-            <label for="email" class="sr-only">Email</label>
-            <input type="email" class="email form-control" name="email" placeholder="Your Email">
-            <input type="hidden" name="subject" value="Contact Form from {{ name }}" />
+            <label for="full-name">Sincerely,</label>
+            <input type="text" class="name form-control" name="name" id="full-name" placeholder="Your Name" required="">
+            <label for="email-address" class="sr-only">Email</label>
+            <input type="email" class="email form-control" name="_replyto" id="email-address" placeholder="Your Email" required="">
+            <input type="hidden" name="_subject" value="Contact Form from {{ name }}" />
+          </fieldset>
           </div>
 
           <div class="g-recaptcha" data-sitekey="6LendD4oAAAAAB37pr71AmiscRARUI7w504dgA5W"></div>
