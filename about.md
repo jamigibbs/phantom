@@ -1,97 +1,23 @@
----
+![image](https://github.com/EllenLI2000/EllenLI2000.github.io/assets/112480241/5835ecb8-f406-4e62-b686-5fc3536352d8)---
 layout: inner
-title: About
+title: About Me
 permalink: /about/
 ---
-## Markdown
+## Educational Background
+- 2022.8 - 2023.6, MSc. Communication Science, University of Amsterdam
+- 2018.8 - 2022.6, BA. Media and Communication, City University of Hong Kong
+- 2019.7 - 2019.8, Advanced British Culture and Humanities Programme, University of Oxford,
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+## Research Experience
+- 2023.9 - Present, Research Assistant (Full-time), supervised by [Dr. Yuhan Luo]("https://scholars.cityu.edu.hk/en/persons/yuhan-luo(9349cfbb-22d1-4097-bb5e-e3e20aaa13ba).html")
+- 2022.6 - 2023.9, Researcher, Supervised by [Dr. Yuhan Luo]("https://scholars.cityu.edu.hk/en/persons/yuhan-luo(9349cfbb-22d1-4097-bb5e-e3e20aaa13ba).html")
+- 2020.10 - 2022.9, Student Research Assistant (Part-time), supervised by [Prof. YU-li Liu]("https://scholars.cityu.edu.hk/en/persons/yuli-liu(cb5a972e-b906-4c9a-8966-2d04034e50f0).html")
 
-[Link to another page](/index.html).
+## Working Experience
+- 2022.3 - 2022.6, Account Executive Intern, [BlueCurrent (Hong Kong)](https://bluecurrentgroup.com.hk/)
+- 2021.6 - 2021.9, Digital Advertising Specialist Intern, [BlueFocus (Beijing)](https://www.bluefocusgroup.com/en/)
+- 2020.4 - 2020.8, Content Management Intern, [Bytedance (Tianjin)](https://www.bytedance.com/en/)
 
-There should be whitespace between paragraphs.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-{% highlight js %}
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-{% endhighlight %}
-
-{% highlight ruby %}
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
----
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Wide image
 
