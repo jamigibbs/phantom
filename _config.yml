@@ -89,8 +89,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Ellen Li'
-admin_name: 'Ellen Li'
+footer_text: '© 2023 EllenLi'
+admin_name: 'Zhuoyang (Ellen) Li'
 google_analytics: "" # Update with your own tracking ID
 enable_contact: false
 
