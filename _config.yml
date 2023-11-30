@@ -26,11 +26,14 @@ medium_username: 'blog.jamigibbs.com'
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
+paginate: 10
+paginate_path: "/page:num/"
+
 pagination:
   
   # Site-wide kill switch, disabled here it doesn't run at all 
