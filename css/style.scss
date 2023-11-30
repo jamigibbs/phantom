@@ -311,6 +311,12 @@ button.btn, input.btn {
   }
 }
 
+// vertically center content of post rows
+.post-row {
+    align-items: center;
+    display: flex;
+}
+
 /*--------------------------------------------------------------
 	4.0 Footer
 --------------------------------------------------------------*/
