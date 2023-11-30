@@ -8,7 +8,7 @@ I am a research assistant in the [Department of Computer Science]("https://www.c
 My research focuses on the "human side" of Human-Computer Interaction (HCI), specifically Human-chatbot Interaction. 
 
 I am actively looking for any potential PhD opportunities. 
-You may find me through [Email]("zhuoyanli4@cityu.edu.hk") or [Linkedin]("https://www.linkedin.com/in/lizhuoyang720/?locale=en_US")
+You may find me through [Email]("zhuoyanli4@cityu.edu.hk") or [LinkedIn]("https://www.linkedin.com/in/lizhuoyang720/?locale=en_US")
 
 ## Educational Background
 - 2022.8 - 2023.6, MSc. Communication Science, University of Amsterdam
