@@ -3,11 +3,13 @@
     {% include home-hero.html %}
 
     <main id="portfolio">
+    <picture>
+        <source srcset="/img/posts/IMG_0440.JPG" media="(orientation: portrait)" />
+        <img src="/img/posts/IMG_0440.JPG" alt="profile" />
+    </picture>
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-              
-
 
             {% if site.section_title != '' %}
             <h2 class="section-title text-center">{{ site.section_title }}</h2>
