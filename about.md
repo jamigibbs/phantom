@@ -1,205 +1,29 @@
 ---
 layout: inner
-title: About
+title: About Me
 permalink: /about/
 ---
-## Markdown
+### About Me
+I am a research assistant in the [Department of Computer Science](https://www.cs.cityu.edu.hk/) at [City University of Hong Kong](https://www.cityu.edu.hk/). In the Summer of 2023, I received an MSc degree in Communication Science from the [University of Amsterdam](https://www.uva.nl/en). 
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+My research focuses on the "human side" of Human-Computer Interaction (HCI), specifically Human-chatbot Interaction. 
 
-[Link to another page](/index.html).
+I am actively looking for any potential PhD opportunities. 
+You may find me through [Email](zhuoyanli4@cityu.edu.hk) or [LinkedIn](https://www.linkedin.com/in/lizhuoyang720/?locale=en_US)
 
-There should be whitespace between paragraphs.
+### Educational Background
 
-# Header 1
+- **2022.8 - 2023.6**, MSc. Communication Science, University of Amsterdam
+- **2018.8 - 2022.6**, BA. Media and Communication, City University of Hong Kong
+- **2019.7 - 2019.8**, Advanced British Culture and Humanities Programme, University of Oxford,
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Research Experience
 
-## Header 2
+- **2023.9 - Present**, Research Assistant (Full-time), supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/) and [Dr. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc)
+- **2022.6 - 2023.9**, Researcher, Supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/)
+- **2020.10 - 2022.9**, Student Research Assistant (Part-time), supervised by [Prof. YU-li Liu](https://scholars.cityu.edu.hk/en/persons/yuli-liu(cb5a972e-b906-4c9a-8966-2d04034e50f0).html)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-{% highlight js %}
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-{% endhighlight %}
-
-{% highlight ruby %}
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
----
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Wide image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-{% highlight txt %}
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-{% endhighlight %}
-
-{% highlight txt %}
-The final element.
-{% endhighlight %}
-
----
-
-## Syntax highlighting
-
-Jekyll has [built in support](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) for syntax highlighting of over 60 languages thanks to [Rouge](http://rouge.jneen.net/).
-
-To render a code block with syntax highlighting, surround your code as follows:
-
-{% highlight markdown %}
-{% raw %}
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-{% endraw %}
-{% endhighlight %}
-
-[Pygments](http://pygments.org/) styles are present under section 6.0 of `css/style.scss` for customization.
-
-### Examples
-
----
-
-#### Bash
-
-{% highlight bash %}
->_ ssh -i ~/.ssh/id_rsa account@host.com
-account@host:~$
-$ var="my-value"
-$ echo $var
-my-value
-$ logout
-{% endhighlight %}
-
-#### HTML
-
-{% highlight html %}
-<!DOCTYPE html>
-<html>
- <head>
-   <meta charset="UTF-8">
-   <title>title</title>
- </head>
- <body>
-
- </body>
-</html>
-{% endhighlight %}
-
-#### CSS
-
-{% highlight css %}
-/*--------------------------------------------------------------
-	1.0 Defaults
---------------------------------------------------------------*/
-
-@media (min-width: 1200px) {
-  .container {
-    width: 1200px;
-  }
-}
-
-body {
-  background-color: #e9edf0;
-  @extend %opensans;
-  -webkit-font-smoothing: antialiased;
-}
-{% endhighlight %}
-
-#### YAML
-
-{% highlight yaml %}
-### Phantom settings
-paginate: 10
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
-
-#### Phantom Navigation menu
-enable_nav: true
-nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
-{% endhighlight %}
+### Working Experience
+- **2022.3 - 2022.6**, Account Executive Intern, [BlueCurrent (Hong Kong)](https://bluecurrentgroup.com.hk/)
+- **2021.6 - 2021.9**, Digital Advertising Specialist Intern, [BlueFocus (Beijing)](https://www.bluefocusgroup.com/en/)
+- **2020.4 - 2020.8**, Content Management Intern, [Bytedance (Tianjin)](https://www.bytedance.com/en/)

@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Jami Gibbs."
-email: 'jami0821@gmail.com'
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+title: "Hi, I'm Zhuoyang (Ellen) Li."
+email: 'zhuoyanli4@cityu.edu.hk'
+description: "I am a researcher specializing in Human-Computer Interaction (HCI) and Communication Science. "
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
-medium_username: 'blog.jamigibbs.com'
+url: "https://ellenli2000.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+linkedin_username: 'in/lizhuoyang720'
+github_username: 'ellenli2000'
+medium_username: 'medium.com/@lizhuoyang720'
 
 # Build settings
 markdown: kramdown
@@ -92,13 +92,15 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
+footer_text: '© 2023 EllenLi'
+admin_name: 'Zhuoyang (Ellen) Li'
+google_analytics: "" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  - { url: '/Publications', text: 'Publications'}
+  - { url: '/about', text: 'About Me' }
+
