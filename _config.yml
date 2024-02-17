@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hi, I'm Zhuoyang (Ellen) Li."
 email: 'zhuoyanli4@cityu.edu.hk'
-description: "I am a researcher specializing in Human-Computer Interaction (HCI) and Communication Science. "
+description: "I am a Human-Computer Interaction (HCI) researcher, currently a research assistant in Department of Computer Science, City University of Hong Kong "
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ellenli2000.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'in/lizhuoyang720'
