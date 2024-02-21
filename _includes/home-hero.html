@@ -8,8 +8,13 @@
 
         <div class="hero-content">
 
-          {% if site.avatar != '' %}
-          <h1 class="text-center">{{site.avatar}}
+          {% if site.avatar !='' %}
+          <div class="container">
+            <div class="crop">
+              <img src="https://ellenli2000.github.io/img/{{site.avatar}}" alt="" />
+            </div>
+          </div>
+          
           {% endif %}
           
           {% if site.title != '' %}
