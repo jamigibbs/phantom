@@ -8,17 +8,21 @@
 
         <div class="hero-content">
 
+          {% if site.avatar != '' %}
+          <h1 class="text-center">{{site.avatar}}
+          {% endif %}
+          
           {% if site.title != '' %}
           <h1 class="text-center">{{site.title}}</h1>
           {% endif %}
 
-          {% if site.description != '' or site.enable_contact == true %}
+          {% if site.description != '' or site.enable_contact != '' %}
           <p class="text-center">
             {% if site.description != '' %}
             {{site.description}}
             {% endif %}
 
-            {% if site.enable_contact == true %}
+            {% if site.enable_contact != '' %}
             {% include contact.html %}
             {% include contact-modal.html %}
             {% endif %}
