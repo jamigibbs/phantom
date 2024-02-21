@@ -16,7 +16,7 @@
 avatar: '/img/avatartion (1).png'
 title: "Hi, I'm Zhuoyang (Ellen) Li."
 email: 'zhuoyanli4@cityu.edu.hk'
-description: "I am a Human-Computer Interaction (HCI) researcher, currently a research assistant in Department of Computer Science, City University of Hong Kong "
+description: "I am a Human-Computer Interaction (HCI) researcher, currently a research assistant in the [Department of Computer Science](https://www.cs.cityu.edu.hk/) at [City University of Hong Kong](https://www.cityu.edu.hk/). In the Summer of 2023, I received an MSc degree in Communication Science from the [University of Amsterdam](https://www.uva.nl/en). My research mainly lies in conversational user interfaces, health well-being and personal informatics. I am actively looking for any potential PhD opportunities. "
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ellenli2000.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'in/lizhuoyang720'
