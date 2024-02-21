@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-avatar: '/img/avatartion1.png'
+avatar: '/img/avatartion (1).png'
 title: "Hi, I'm Zhuoyang (Ellen) Li."
 email: 'zhuoyanli4@cityu.edu.hk'
 description: "I am a Human-Computer Interaction (HCI) researcher, currently a research assistant in Department of Computer Science, City University of Hong Kong "
@@ -96,7 +96,7 @@ pagination:
 ### Phantom settings
 footer_text: 'Last update: 23/02/2024.'
 admin_name: 'Zhuoyang (Ellen) Li'
-google_analytics: "" # Update with your own tracking ID
+google_analytics: "G-VXQW1L61MD" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
