@@ -4,12 +4,7 @@ title: About Me
 permalink: /about/
 ---
 ### About Me
-I am a research assistant in the [Department of Computer Science](https://www.cs.cityu.edu.hk/) at [City University of Hong Kong](https://www.cityu.edu.hk/). In the Summer of 2023, I received an MSc degree in Communication Science from the [University of Amsterdam](https://www.uva.nl/en). 
-
-My research focuses on the "human side" of Human-Computer Interaction (HCI), specifically Human-chatbot Interaction. 
-
-I am actively looking for any potential PhD opportunities. 
-You may find me through [Email](zhuoyanli4@cityu.edu.hk) or [LinkedIn](https://www.linkedin.com/in/lizhuoyang720/?locale=en_US)
+I am a research assistant in the [Department of Computer Science](https://www.cs.cityu.edu.hk/) at [City University of Hong Kong](https://www.cityu.edu.hk/). In the Summer of 2023, I received an MSc degree in Communication Science from the [University of Amsterdam](https://www.uva.nl/en). My research focuses on the "human side" of Human-Computer Interaction (HCI). I am actively looking for any potential PhD opportunities. 
 
 ### Educational Background
 
