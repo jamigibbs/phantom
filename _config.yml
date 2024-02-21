@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-avatar: '/img/favicon.png'
+avatar: '/img/avatartion(1).png'
 title: "Hi, I'm Zhuoyang (Ellen) Li."
 email: 'zhuoyanli4@cityu.edu.hk'
 description: "I am a Human-Computer Interaction (HCI) researcher, currently a research assistant in Department of Computer Science, City University of Hong Kong "
