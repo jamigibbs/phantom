@@ -2,12 +2,12 @@
 layout: inner
 position: right
 title: 'Rescue Themes'
-date: 2016-02-20 15:56:00
-categories: development design
-tags: WordPress PHP Sass
-featured_image: '/img/posts/03_rescue-themes-1130x864-2x.png'
-project_link: 'https://rescuethemes.com'
-button_text: 'Visit Rescue Themes'
-button_icon: 'wordpress'
+date: 2023-07-19 15:56:00
+categories: StayFocused
+tags: CUI PromptEngineering SmartphoneAddiction PT
+featured_image: '/img/posts/StayFocused_CUI.png'
+project_link: 'https://doi.org/10.1145/3571884.3604305'
+button_text: 'CUI 2023'
+button_icon: 'flask'
 lead_text: 'Designed and developed all WordPress themes'
 ---
