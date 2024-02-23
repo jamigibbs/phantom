@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Phantom'
-date: 2016-02-20 21:15:00
-categories: development design
-tags: Jekyll Sass Bootstrap
-featured_image: '/img/posts/04_phantom-jekyll-1130x864-2x.png'
-project_link: 'https://github.com/jamigibbs'
+title: 'StayFocused'
+date: 2024-02-22 21:15:00
+categories: research prototype
+tags: StayFocused
+featured_image: '/img/posts/StayFocused_CHI.png'
+project_link: 'https://dl.acm.org/doi/10.1145/3613904.3642479'
 button_icon: 'flask'
 button_text: 'Visit Project'
-lead_text: "A minimalist Jekyll theme that you're looking at it right now"
+lead_text: "StayFocused: Examining the Effects of Reflective Prompts and Chatbot Support on Compulsive Smartphone Use."
 ---
