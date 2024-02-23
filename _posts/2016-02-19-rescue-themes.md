@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'Rescue Themes'
+title: 'Prompt Design for a Reflective Chatbot'
 date: 2023-07-19 15:56:00
 categories: StayFocused
 tags: CUI PromptEngineering SmartphoneAddiction PT
