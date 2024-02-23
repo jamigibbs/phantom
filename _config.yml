@@ -103,6 +103,6 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/Publications', text: 'Misc.'}
   - { url: '/about', text: 'About Me' }
+  - { url: '/Publications', text: 'Misc.'}
 
