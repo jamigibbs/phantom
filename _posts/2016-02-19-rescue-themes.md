@@ -5,7 +5,7 @@ title: 'GPT Prompt Engineering'
 date: 2023-07-19 15:56:00
 categories: StayFocused
 tags: CUI PromptEngineering SmartphoneAddiction PT
-featured_image: '/img/posts/StayFocused_CUI.png'
+featured_image: '/img/posts/Poster_CUI.png'
 project_link: 'https://doi.org/10.1145/3571884.3604305'
 button_text: 'CUI 2023'
 button_icon: 'link'
