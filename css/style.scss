@@ -219,7 +219,7 @@ margin-right: auto;
     margin-top: 2em;
   }
   .break {
-    margin: 3em 0;
+    margin: 2em 0;
     @include bp-xsmall {
       margin: 2em 0;
     }
@@ -256,7 +256,7 @@ margin-right: auto;
 }
 
 .content-wrap {
-  margin-bottom: 8em;
+  margin-bottom: 5em;
   @include bp-xsmall {
     margin-bottom: 2em;
   }
