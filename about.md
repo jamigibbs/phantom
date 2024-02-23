@@ -14,7 +14,7 @@ I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab
  
 ### Research Experience
 + **2023.9 - Present**, Research Assistant (Full-time), supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/)
-+ **2022.6 - 2023.9**, Researcher, Supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/)and [Dr. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc)
++ **2022.6 - 2023.9**, Researcher, Supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/) and [Dr. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc)
 + **2020.10 - 2022.9**, Student Research Assistant (Part-time), supervised by [Prof. Yu-li Liu](https://scholars.cityu.edu.hk/en/persons/yuli-liu(cb5a972e-b906-4c9a-8966-2d04034e50f0).html)
 
 ### Service
