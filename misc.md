@@ -17,8 +17,8 @@ With an academic background in media and communication, I was trained to deliver
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fab2OMRHgFlVZuy2LuCAMjv%2FSarphati%3Ftype%3Ddesign%26node-id%3D38-136%26t%3DDW0Lvq5ijkzKOyjr-1%26scaling%3Dscale-down%26page-id%3D1%253A3509%26starting-point-node-id%3D70%253A167%26mode%3Ddesign" allowfullscreen></iframe>
 
 ### Photography
-I occasionally bring my camera and try to capture the 
-![]()
+I also indulge in photography as a means of capturing moments and emotions. Lately, I have been captivated by the serene atmosphere evoked by soft shades of pink and blue and obsessed with capturing its calming allure. 
+![pink and blue vibe](/img/PinkBlue.png)
 
-I compiled some of my photography work into a weekly calendar. Feel free to download the [good-for-print version](https://drive.google.com/file/d/1F6sl_bpiZ71OoGUSD-MQrsHQEdFBSow1/view?usp=sharing).
+- **2024 Calendar** I compiled some of my photography work into a weekly calendar. Feel free to download the [good-for-print version](https://drive.google.com/file/d/1F6sl_bpiZ71OoGUSD-MQrsHQEdFBSow1/view?usp=sharing).
 
