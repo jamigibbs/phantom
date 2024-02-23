@@ -163,7 +163,7 @@ margin-right: auto;
 .modal-header {
   border-bottom: none;
   button {
-    margin-bottom: 0;
+    margin-bottom: 1em;
   }
 }
 
@@ -176,14 +176,14 @@ margin-right: auto;
   label {
     font-weight: 300;
     font-size: 22px;
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
   }
   textarea, input {
     border-color: #e6e6e6;
     border-radius: 2px;
     -webkit-box-shadow: none;
     box-shadow: none;
-    margin-bottom: 1em;
+    margin-bottom: 2em;
   }
   .form-group {
     margin: 0;
