@@ -122,7 +122,7 @@ button.btn, input.btn {
 }
 
 .hero-content {
-  width: 60%;
+  width: 70%;
   margin: 0 auto;
   display: table;
   @include bp-medium {
@@ -135,7 +135,7 @@ button.btn, input.btn {
     width: 100%;
   }
   h1 {
-    font-size: 30px;
+    font-size: 20px;
   }
   p {
     margin: 2em 0 4em 0;
