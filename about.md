@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab.html), [Department of Computer Science](https://www.cs.cityu.edu.hk/), City University of Hong Kong. As a researcher in the field of HCI, I design and evaluate conversational user interfaces (CUIs) in the context of people's daily health and well-being. Broadly, my research lies in the intersection of persuasive technology (PT), personal informatics (PI) and health communication.  
+I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab.html), [Department of Computer Science](https://www.cs.cityu.edu.hk/), City University of Hong Kong. As a researcher in the field of HCI, I design and evaluate conversational user interfaces (CUIs) in the context of people's daily health and well-being. Broadly, my research lies in the intersection of persuasive technology (PT), ubiquitous computing (ubicomp), social computing and personal informatics (PI).  
 
 
 ### Educational Background
