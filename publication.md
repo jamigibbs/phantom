@@ -1,6 +1,8 @@
------
+---
 layout: inner
------
+title: Publication
+permalink: /pub/
+---
 
 ### Publication List
 - **[Co-first Author]** Li, Z., Liang, M., LC, R., Luo, Y. (2024). [StayFocused: Examining the Effects of Reflective Prompts and Chatbot Support on Compulsive Smartphone Use.](https://doi.org/10.1145/3613904.3642479) The ACM conference on Human Factors in Computing Systems (CHI’24). 
