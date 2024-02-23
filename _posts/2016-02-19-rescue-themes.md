@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'Prompt Design for a Reflective Chatbot'
+title: 'GPT Prompt Engineering'
 date: 2023-07-19 15:56:00
 categories: StayFocused
 tags: CUI PromptEngineering SmartphoneAddiction PT
