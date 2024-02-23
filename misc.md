@@ -14,11 +14,11 @@ With an academic background in media and communication, I was trained to deliver
 - **ComeToCOM** is our final-year undergraduate project, dedicated to showcasing and promoting the Department of Media and Communication to the public. As a member of the project team, I took on the responsibility of designing all the graphic materials for our [Instagram account](https://www.instagram.com/come_to_com?igsh=MWNqZHBuYmZoNDgwNw==)
 
 - **SocioHealth+** is the project I undertook during my master's studies. The project involved collaborating with [Sarphati Cohort](https://www.sarphaticohort.nl/en/), a program focused on enhancing the health of children in Amsterdam through long-term research. Our specific task was to redesign their mobile app to address the unique challenge of collecting data from parents with low socioeconomic status (SES). As a member of the project team, I designed [a prototype of a mobile app](https://www.figma.com/proto/ab2OMRHgFlVZuy2LuCAMjv/Sarphati?type=design&node-id=70-167&t=ZHdvOAdFWkugrKv4-0&scaling=scale-down&page-id=1%3A3509&starting-point-node-id=70%3A167), ensuring it catered to the needs and circumstances of the target audience.
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fab2OMRHgFlVZuy2LuCAMjv%2FSarphati%3Ftype%3Ddesign%26node-id%3D38-136%26t%3DDW0Lvq5ijkzKOyjr-1%26scaling%3Dscale-down%26page-id%3D1%253A3509%26starting-point-node-id%3D70%253A167%26mode%3Ddesign" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="400" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fab2OMRHgFlVZuy2LuCAMjv%2FSarphati%3Ftype%3Ddesign%26node-id%3D38-136%26t%3DDW0Lvq5ijkzKOyjr-1%26scaling%3Dscale-down%26page-id%3D1%253A3509%26starting-point-node-id%3D70%253A167%26mode%3Ddesign" allowfullscreen></iframe>
 
 ### Photography
 I also indulge in photography as a means of capturing moments and emotions. Lately, I have been captivated by the serene atmosphere evoked by soft shades of pink and blue and obsessed with capturing its calming allure. 
 ![pink and blue vibe](/img/PinkBlue.png)
 
-- **2024 Calendar** I compiled some of my photography work into a weekly calendar. Feel free to download the [good-for-print version](https://drive.google.com/file/d/1F6sl_bpiZ71OoGUSD-MQrsHQEdFBSow1/view?usp=sharing).
+I compiled some of my photography work into a weekly calendar. Feel free to download the [good-for-print version](https://drive.google.com/file/d/1F6sl_bpiZ71OoGUSD-MQrsHQEdFBSow1/view?usp=sharing).
 
