@@ -5,7 +5,7 @@ permalink: /misc/
 ---
 ### Myers–Briggs Type Indicator (MBTI)
 I am a typical [ESFJ-T](https://www.16personalities.com/esfj-personality) person!\
-<img src="/img/MBTI.png" width=300></img>\
+<img src="/img/MBTI.png" width=500></img>\
 Being an ESFJ-T means that I possess a blend of extraversion, observance, feeling, and judging traits. These qualities make me naturally attentive and people-focused, always seeking opportunities to engage and make a positive impact. Whether through collaborations, conversations or simply being present in gatherings, I find fulfillment in the connections I forge with those around me.
 
 ### Digital Design
