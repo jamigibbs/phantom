@@ -1,5 +1,5 @@
 ---
-layout: Inner
+layout: inner
 title: Misc.
 permalink: /Misc./
 ---
