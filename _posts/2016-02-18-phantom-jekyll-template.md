@@ -7,7 +7,7 @@ categories: research prototype
 tags: SmartphoneAddiction Reflection PT CUI LLM
 featured_image: '/img/posts/StayFocused_CHI.png'
 project_link: 'https://dl.acm.org/doi/10.1145/3613904.3642479'
-button_icon: 'flask'
+button_icon: 'link'
 button_text: 'CHI 2024'
 lead_text: "StayFocused app incorporates reflective prompts probing individuals' phone-checking intentions whenever they check their phones and a chatbot to deliver these prompts."
 ---
