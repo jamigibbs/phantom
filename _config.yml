@@ -16,8 +16,8 @@
 avatar: '/img/favicon.png'
 title: "Hi, I'm Zhuoyang (Ellen) Li."
 email: 'zhuoyanli4@cityu.edu.hk'
-description: "I am a Human-Computer Interaction (HCI) researcher, currently a research assistant in BiWell Lab."
-baseurl: "" # the subpath of your site, e.g. /blog
+description: "I am a Human-Computer Interaction (HCI) researcher, currently a research assistant at BiWell Lab."
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ellenli2000.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'in/lizhuoyang720'
 github_username: 'ellenli2000'
