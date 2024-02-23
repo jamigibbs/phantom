@@ -6,19 +6,15 @@ permalink: /misc/
 ### Myers–Briggs Type Indicator (MBTI)
 I am a typical [ESFJ-T](https://www.16personalities.com/esfj-personality) person!
 ![My MBTI](/img/MBTI.png)
-
-You see, being an ESFJ-T means that I possess a blend of extraversion, observance, feeling, and judging traits. These qualities make me naturally attentive and people-focused, always seeking opportunities to engage and make a positive impact. Whether through conversations, gatherings, or simply being present in social settings, I find fulfillment in the connections I forge with those around me.
+You see, being an ESFJ-T means that I possess a blend of extraversion, observance, feeling, and judging traits. These qualities make me naturally attentive and people-focused, always seeking opportunities to engage and make a positive impact. Whether through collobrations, conversations or simply being present in gatherings, I find fulfillment in the connections I forge with those around me.
 
 ### Digital Design
-With an academic background in media and communication, I was trained to deliver key messages through illustrations. The following are a few projects that I participated in as a student:
+With an academic background in media and communication, I was trained to deliver key messages through digital illustrations. I have had the opportunity to contribute to several projects where I took charge of the illustration design. Here are a few examples of my work:
 
 - **ComeToCOM** is our final-year undergraduate project, dedicated to showcasing and promoting the Department of Media and Communication to the public. As a member of the project team, I took on the responsibility of designing all the graphic materials for our [Instagram account](https://www.instagram.com/come_to_com?igsh=MWNqZHBuYmZoNDgwNw==)
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fab2OMRHgFlVZuy2LuCAMjv%2FSarphati%3Ftype%3Ddesign%26node-id%3D38-136%26t%3DDW0Lvq5ijkzKOyjr-1%26scaling%3Dscale-down%26page-id%3D1%253A3509%26starting-point-node-id%3D70%253A167%26mode%3Ddesign" allowfullscreen></iframe>
 
 - **SocioHealth+** is the project I undertook during my master's studies. The project involved collaborating with [Sarphati Cohort](https://www.sarphaticohort.nl/en/), a program focused on enhancing the health of children in Amsterdam through long-term research. Our specific task was to redesign their mobile app to address the unique challenge of collecting data from parents with low socioeconomic status (SES). As a member of the project team, I designed [a prototype of a mobile app](https://www.figma.com/proto/ab2OMRHgFlVZuy2LuCAMjv/Sarphati?type=design&node-id=70-167&t=ZHdvOAdFWkugrKv4-0&scaling=scale-down&page-id=1%3A3509&starting-point-node-id=70%3A167), ensuring it catered to the needs and circumstances of the target audience.
-![SocioHealth+ Project](/img/SocioHealth.png)
-
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fab2OMRHgFlVZuy2LuCAMjv%2FSarphati%3Ftype%3Ddesign%26node-id%3D38-136%26t%3DDW0Lvq5ijkzKOyjr-1%26scaling%3Dscale-down%26page-id%3D1%253A3509%26starting-point-node-id%3D70%253A167%26mode%3Ddesign" allowfullscreen></iframe>
 
 ### Photography
 I occasionally bring my camera and try to capture the 
