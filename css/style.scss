@@ -214,12 +214,12 @@ margin-right: auto;
 	3.0 Posts
 --------------------------------------------------------------*/
 #portfolio .container {
-  margin-top: 10em;
+  margin-top: 5em;
   @include bp-xsmall {
     margin-top: 2em;
   }
   .break {
-    margin: 8em 0;
+    margin: 2em 0;
     @include bp-xsmall {
       margin: 2em 0;
     }
@@ -272,8 +272,8 @@ margin-right: auto;
     }
   }
   .content {
-    margin-top: 5em;
-    margin-left: 5em;
+    margin-top: 2em;
+    margin-left: 2em;
     @include bp-xsmall {
       margin-left: 0;
     }
