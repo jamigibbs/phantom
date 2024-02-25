@@ -6,12 +6,12 @@ permalink: /misc/
 ### Myers–Briggs Type Indicator (MBTI)
 I am a typical [ESFJ-T](https://www.16personalities.com/esfj-personality) person!\
 <img src="/img/MBTI.png" width=300>\
-Being an ESFJ-T means that I possess a blend of extraversion, observance, feeling, and judging traits. These qualities make me naturally attentive and people-focused, always seeking opportunities to engage and make a positive impact. Whether through collaborations, conversations or simply being present in gatherings, I find fulfillment in the connections I forge with those around me.
+Being an ESFJ-T means that I possess a blend of extraversion, observance, feeling, and judging traits. These qualities make me naturally attentive and people-focused, always seeking opportunities to engage and make a positive impact. Whether through collaborations, conversations or simply being present in gatherings, I find fulfillment in building connections with those around me.
 
 ### Digital Design
 With an academic background in media and communication, I was trained to deliver key messages through digital illustrations. I have had the opportunity to contribute to several projects where I took charge of the illustration design. Here are a few examples of my work:
 
-+ **ComeToCOM** is our final-year undergraduate project, dedicated to showcasing and promoting the Department of Media and Communication to the public. As a member of the project team, I took on the responsibility of designing all the graphic materials for our [Instagram account](https://www.instagram.com/come_to_com?igsh=MWNqZHBuYmZoNDgwNw==)
++ **ComeToCOM** is our Final Year Project during my bachelor's studies, dedicated to showcasing and promoting the Department of Media and Communication to the public. As a member of the project team, I took on the responsibility of designing all the graphic materials for our [Instagram account](https://www.instagram.com/come_to_com?igsh=MWNqZHBuYmZoNDgwNw==)
 
 ![CometoCOM](/img/ComeToCOM.png)
 
