@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'GPT Prompt Engineering'
+title: 'Prompt Engineering for StayFocused'
 date: 2023-07-19 15:56:00
 categories: StayFocused
 tags: PromptEngineering LLMs
