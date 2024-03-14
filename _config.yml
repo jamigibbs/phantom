@@ -16,11 +16,11 @@
 avatar: '/img/favicon_1.png'
 title: "Hi, I'm Zhuoyang (Ellen) Li."
 email: 'zhuoyanli4@cityu.edu.hk'
-description: "I am a Human-Computer Interaction (HCI) researcher, currently a research assistant at BiWell Lab, City University of Hong Kong. My research interests lie in Human-Computer Interaction (HCI), Conversational Agent (CA), Digital Health, Persuasive Technology (PT) and Personal Informatics (PI)."
+description: "I am a Human-Computer Interaction (HCI) researcher, currently a research assistant at BiWell Lab, City University of Hong Kong. My research interests lie in Conversational Agent (CA), Digital Health, Persuasive Technology (PT) and Personal Informatics (PI)."
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ellenli2000.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'in/lizhuoyang720'
-github_username: 'ellenli2000'
+# github_username: 'ellenli2000'
 medium_username: 'medium.com/@lizhuoyang720'
 google_username: 'pFr4MykAAAAJ&hl=en'
 
