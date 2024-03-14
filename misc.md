@@ -3,7 +3,7 @@ layout: inner
 title: Misc.
 permalink: /misc/
 ---
-### I am a [ESFJ-T](https://www.16personalities.com/esfj-personality) person!\
+### I am an [ESFJ-T](https://www.16personalities.com/esfj-personality) person!
 <img src="/img/MBTI.png" width=300>\
 Being an ESFJ-T means that I possess a blend of extraversion, observance, feeling, and judging traits. These qualities make me naturally attentive and people-focused, always seeking opportunities to engage and make a positive impact. Whether through collaborations, conversations or simply being present in gatherings, I find fulfillment in building connections with those around me.
 
