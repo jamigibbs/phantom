@@ -7,6 +7,9 @@ permalink: /about/
 I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab.html), supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/). As a researcher in the field of HCI, I design and evaluate Conversational Agents (CAs) in the context of people's daily health and well-being. Broadly, my research lies in the intersection of persuasive technology (PT), ubiquitous computing (ubicomp), social computing and personal informatics (PI).
 [Please find my CV here.](img/Resume-0312.pdf) 
 
+### News & Travel
++ **2024.5** CHI'24 Hawaii :surfer:
++ **2023.7** CUI'23 Eindhoven :speech_balloon:
 
 ### Educational Background
 + **2022.8 - 2023.6**, MSc. Communication Science, University of Amsterdam
