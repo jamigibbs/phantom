@@ -5,6 +5,7 @@ permalink: /pub/
 ---
 
 ### Publication List
+[🔗Google Scholar](https://scholar.google.com/citations?user=pFr4MykAAAAJ&hl=en)
 - **[Co-first Author]** Li, Z., Liang, M., LC, R., Luo, Y. (2024). [StayFocused: Examining the Effects of Reflective Prompts and Chatbot Support on Compulsive Smartphone Use.](paper/StayFocused.pdf) The ACM conference on Human Factors in Computing Systems (CHI’24). 
 - **[Co-first Author]** Li, Z., Liang, M., Le, H. T., LC, R., Luo, Y. (2023). [Exploring Design Opportunities for Reflective Conversational Agents to Reduce Compulsive Smartphone Use.](https://doi.org/10.1145/3571884.3604305) The ACM conference on Conversational User Interfaces (CUI’23).
 - **[Co-author]** Liu, Y., Song, C., Huang, D., Liu, X., Li, Z., & Hu, B. (2023). [How can chatbots effectively comfort humans?
