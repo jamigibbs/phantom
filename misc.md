@@ -5,7 +5,14 @@ permalink: /misc/
 ---
 ### I am an [ESFJ-T](https://www.16personalities.com/esfj-personality) person!
 <img src="/img/MBTI.png" width=300>\
-Being an ESFJ-T means that I possess a blend of extraversion, observance, feeling, and judging traits. These qualities make me naturally attentive and people-focused, always seeking opportunities to engage and make a positive impact. Whether through collaborations, conversations or simply being present in gatherings, I find fulfillment in building connections with those around me.
+I asked ChatGPT "Why an ESFJ person can be a good HCI researcher?". It replied: 
++ Empathy and Understanding: ESFJs are known for their strong sense of empathy and understanding towards others. This allows them to deeply connect with users, comprehend their needs, and empathize with their experiences. Such empathy is crucial in HCI research to create user-centered interfaces and improve user experiences.
++ Observant and Detail-Oriented: ESFJs possess a keen observant nature, paying attention to the finer details of human behavior. This trait helps them analyze and interpret user interactions with technology accurately. Their ability to notice subtle nuances and patterns allows them to identify usability issues and propose effective design solutions.
++ Strong Interpersonal Skills: ESFJs excel in interpersonal communication and relationship-building. HCI research often involves collaborating with multidisciplinary teams, conducting user studies, and gathering feedback. The ability to effectively communicate and connect with different stakeholders, including users, designers, and developers, is vital for successful collaboration and understanding diverse perspectives.
++ Focus on User Satisfaction: ESFJs have a natural inclination to prioritize the well-being and satisfaction of others. In HCI research, this translates into a strong drive to improve user experiences and ensure that technology meets their needs. They are motivated to create interfaces that are not only functional but also emotionally satisfying and enjoyable for users.
++ Organizational and Judging Abilities: ESFJs possess excellent organizational skills and are known for their structured approach to tasks. This helps them manage research projects, collect and analyze data efficiently, and meet project deadlines. Their judging trait also contributes to their ability to make informed decisions and prioritize tasks effectively.
+
+While I am so flattered😆, I think I still need to continuously work on cultivating these qualities.
 
 ### I like conveying my ideas through design 
 With an academic background in media and communication, I was trained to deliver key messages through digital illustrations. I have had the opportunity to contribute to several projects where I took charge of the illustration design. Here are a few examples of my work:
